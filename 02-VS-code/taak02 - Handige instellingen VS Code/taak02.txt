@@ -1,0 +1,5 @@
+Activity Bar
+Side Bar
+Editor Groups
+Panel
+Status Bar 
